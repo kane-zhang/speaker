@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "security.jwt.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.client-id'"
+  },
+  {
+    "name": "security.jwt.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.client-secret'"
+  }
+]}
